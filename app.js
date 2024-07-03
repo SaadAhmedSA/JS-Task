@@ -34,7 +34,7 @@ function saad(a){
   if(a){
     text.innerHTML=`${text1}<button id="btn1">See less</button>`
   }else{
-    text.innerHTML=`${conver}<button id="btn2">See more</button>`
+    text.innerHTML=`${conver}...<button id="btn2">See more</button>`
 
   }
 }
